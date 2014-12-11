@@ -2,7 +2,7 @@
 
 http://log2viz.herokuapp.com/
 
-Realtime analysis of your Heroku app logs.
+Form of Log2Viz. This combines its realtime analytics with Dashing to create a realtime interface for visualizing key metrics of a heroku application.  You can also track key metrics from Google Analytics in real time.
 
 ## Installing Locally
 
